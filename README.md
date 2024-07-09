@@ -85,9 +85,9 @@ After installation, you can use the cinit command to initialize CI/CD configurat
 
 For help with commands, you can use the --help flag:
 
-    ```sh
-    cinit --help
-    ```
+   ```sh
+   cinit --help
+   ```
 
 ## Development
 
@@ -95,9 +95,9 @@ For help with commands, you can use the --help flag:
 
 To run the tests, use:
 
-    ```sh
-    cargo test
-    ```
+   ```sh
+   cargo test
+   ```
 
 ### Makefile
 
