@@ -5,7 +5,7 @@ use std::io::Write;
 fn main() {
     let matches = Command::new("cinit")
         .version("1.0")
-        .author("Your Name <your.email@example.com>")
+        .author("Kukuh Satrio Wibowo <kukuhsatriowibowo@gmail.com>")
         .about("Initializes CI/CD configuration files")
         .subcommand(Command::new("gitlabci")
             .about("Initializes a GitLab CI configuration"))
